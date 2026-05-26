@@ -13,4 +13,4 @@ const message = await client.messages.create({
   ],
 });
 
-console.log(message.content);
+console.log(message);
