@@ -21,6 +21,8 @@ Books, articles or posts I might want to read, already read or I'm currently rea
 - Surviving Object-Oriented Projects (Alistair Cockburn 1998)
 - Extreme Programming Explained (Kent Beck 1999)
 - Structure and Interpretation of Computer Programs (Harold Abelson and Gerald Jay Sussman 1996)
+- Designing Object-Oriented Software (Rebecca Wirfs-Brock, Brian Wilkerson and Lauren Wiener 1990)
+- Object Design (Rebecca Wirfs-Brock, Alan McKean 2002)
 
 ## Articles / Concepts
 
