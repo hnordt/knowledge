@@ -1,6 +1,6 @@
 # Knowledge
 
-Structured study and engineering knowledge repository.
+A personal knowledge base for software engineering, organized around books, platform docs, durable concepts, and working notes.
 
 ## Structure
 
